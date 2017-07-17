@@ -1,0 +1,30 @@
+C:\Users\Well's-Comp\Documents\Visual Studio 2008\Projects\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.dll
+C:\Users\Well's-Comp\Documents\Visual Studio 2008\Projects\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.pdb
+C:\Users\Well's-Comp\Documents\Visual Studio 2008\Projects\ILUSI_7320\ILUSI_7320\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Well's-Comp\Documents\Visual Studio 2008\Projects\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.dll
+C:\Users\Well's-Comp\Documents\Visual Studio 2008\Projects\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.pdb
+F:\Visual Studio Project\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.dll
+F:\Visual Studio Project\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.pdb
+F:\Visual Studio Project\ILUSI_7320\ILUSI_7320\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio Project\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.dll
+F:\Visual Studio Project\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.pdb
+E:\Web\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.dll
+E:\Web\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.pdb
+E:\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ResolveAssemblyReference.cache
+E:\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.dll
+E:\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.pdb
+F:\Visual Studio Project\ILUSI_7320 - Sticky Menu\ILUSI_7320\bin\ILUSI_7320.dll
+F:\Visual Studio Project\ILUSI_7320 - Sticky Menu\ILUSI_7320\bin\ILUSI_7320.pdb
+F:\Visual Studio Project\ILUSI_7320 - Sticky Menu\ILUSI_7320\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio Project\ILUSI_7320 - Sticky Menu\ILUSI_7320\obj\Debug\ILUSI_7320.dll
+F:\Visual Studio Project\ILUSI_7320 - Sticky Menu\ILUSI_7320\obj\Debug\ILUSI_7320.pdb
+E:\ILUSI_7320\Web\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.dll
+E:\ILUSI_7320\Web\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.pdb
+E:\ILUSI_7320\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ResolveAssemblyReference.cache
+E:\ILUSI_7320\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.dll
+E:\ILUSI_7320\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.pdb
+E:\Documents\Kuliah\Semester 5\P3LP\Web\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.dll
+E:\Documents\Kuliah\Semester 5\P3LP\Web\ILUSI_7320\ILUSI_7320\bin\ILUSI_7320.pdb
+E:\Documents\Kuliah\Semester 5\P3LP\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Kuliah\Semester 5\P3LP\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.dll
+E:\Documents\Kuliah\Semester 5\P3LP\Web\ILUSI_7320\ILUSI_7320\obj\Debug\ILUSI_7320.pdb
